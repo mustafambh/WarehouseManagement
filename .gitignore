@@ -1,0 +1,40 @@
+﻿## Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+
+## Logs
+*.log
+logs/
+
+## Publish
+/dist/
+/publish/
+/out/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+
+## Entity Framework
+Migrations/
+
+## Others
+*.DS_Store
+Thumbs.db
